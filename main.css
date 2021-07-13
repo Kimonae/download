@@ -1,0 +1,66 @@
+.fo {
+
+
+    display:flex;
+    flex-direction: column;
+    margin-left: 485px;
+}
+.fa {
+
+
+    display:flex;
+    flex-direction: column;
+    margin-top: -95px;
+    margin-left: 200px;
+
+}
+
+form {
+
+
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+input[type=number] {
+
+    margin-left:20px;
+
+
+}
+
+input[type=number] {
+
+border-radius: 30px;
+
+}
+input[type=text] {
+
+    border-radius: 30px;
+    
+    }
+    
+
+    input[type=submit] {
+
+      position: absolute;
+        top: 450px;
+        left: 450px;
+        border-radius: 20px;
+        padding: 10px;
+        }
+
+        img {
+
+       width: 320px;
+       height: 280px;
+      position: absolute;
+      left: 950px;
+      top: 120px;
+      border-radius: 850px;
+        }
+
+        body {
+
+            overflow: hidden;
+        }
